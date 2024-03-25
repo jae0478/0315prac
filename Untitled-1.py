@@ -8,3 +8,6 @@ ax.set_ylim(-10,10)
 ax.set_zlim(0, 10)
 start = [0,0,0]
 ax.quiver(start[0], start[1], start[2], u[0], u[1], u[2], color = 'r')
+
+
+// pull-request 실습 과제
